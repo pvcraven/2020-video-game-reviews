@@ -9,6 +9,8 @@ Put some info about your final project here
 
    borderlands/index
    ghost_of_tus/index
+   skyrim/index
+   reddeadredemption/index
    chapter3/index
    chapter4/index
    chapter5/index
