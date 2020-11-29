@@ -7,7 +7,7 @@ We are a team of Simpson *students* that have a passion for playing and reviewin
    :maxdepth: 2
    :caption: Contents:
 
-   borderlands/index
+   borderlands_3/index
    ghost_of_tsushima/index
    skyrim/index
    reddeadredemption/index
