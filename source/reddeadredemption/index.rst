@@ -10,7 +10,7 @@ John Marston [#f1]_
 Plot
 ----
 .. warning::
-    There is spoilers for the game Red Dead Redemption with in this section.
+    There is spoilers for the game Red Dead Redemption within this section.
     Do not read if you want to play this game.
 
 Former gang memeber **John Marston** has been kidnapped by **Edgar Ross** and **Archer Fordham**. They have also captured his family. These two guys work for  the U.S. government, and will only free Marston's family if he brings three of his former gang members to justice. The three gang members are **Bill Williamson**, **Javier Escuella**, and **Dutch van der Linde**.                                                                                         
