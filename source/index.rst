@@ -1,14 +1,14 @@
-Welcome to Final Project's documentation!
-=========================================
+Simpson Video Game Reviews!
+===========================
 
-Put some info about your final project here
+We are a team of Simpson *students* that have a passion for playing and reviewing that latest vidoe game releases. 
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    borderlands/index
-   ghost_of_tus/index
+   ghost_of_tsushima/index
    skyrim/index
    reddeadredemption/index
    chapter3/index
