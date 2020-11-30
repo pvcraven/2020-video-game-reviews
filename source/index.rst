@@ -4,7 +4,7 @@ Simpson Video Game Reviews!
 We are a team of Simpson *students* that have a passion for playing and reviewing that latest vidoe game releases. 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    borderlands_3/index
