@@ -13,8 +13,8 @@ We are a team of Simpson *students* that have a passion for playing and reviewin
    reddeadredemption/index
    call_of_duty_coldwar/index
    madden21/index
-   chapter5/index
-   chapter6/index
+   doom/index
+   batman/index
    chapter7/index
    chapter8/index
    chapter9/index
