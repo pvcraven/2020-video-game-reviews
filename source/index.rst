@@ -15,8 +15,8 @@ We are a team of Simpson *students* that have a passion for playing and reviewin
    madden21/index
    doom/index
    batman/index
-   chapter7/index
-   chapter8/index
+   call_of_duty_warzone/index
+   call_of_duty_ghosts/index
    chapter9/index
 
 
