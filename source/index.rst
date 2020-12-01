@@ -11,8 +11,8 @@ We are a team of Simpson *students* that have a passion for playing and reviewin
    ghost_of_tsushima/index
    skyrim/index
    reddeadredemption/index
-   chapter3/index
-   chapter4/index
+   call_of_duty_coldwar/index
+   madden21/index
    chapter5/index
    chapter6/index
    chapter7/index
