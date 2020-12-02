@@ -40,10 +40,11 @@ Sweet, Sweet Glory
 One of the most unique features of the newer games is the glory kill. The glory kill is a move you perform when a demon is at low health that drops health on the ground after performing one. This also provides you the spectacle of watching the slayer maim, mutilate, dismember, and tear demons apart while fighting the hordes of hell. 
 
 .. _Glory-kill-link:
+
 Sweet, Sweet, Glory
 -------------------
 To see a live representation of glory kills
-click on the link here :ref:`https://www.youtube.com/watch?v=7Dv6w1LaHo4`.
+click on the link `here <https://www.youtube.com/watch?v=7Dv6w1LaHo4>`_.
 
 Armor
 =====

@@ -1,15 +1,17 @@
 Batman: Arkham Knight
-======
+=====================
 
 Table of contents
 * Overview
 * Story
 * Side Missions
 * Gameplay
-- Stealth
-- Gadgets
-- Riddler 
-- The Batmobile
+
+  - Stealth
+  - Gadgets
+  - Riddler 
+  - The Batmobile
+  
 * Visuals
 * Audio
 * Conclusion
