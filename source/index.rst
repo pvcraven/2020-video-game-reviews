@@ -17,6 +17,7 @@ We are a team of Simpson *students* that have a passion for playing and reviewin
    batman/index
    call_of_duty_warzone/index
    call_of_duty_ghosts/index
+   valhalla/index
+   league_of_legends/index
    chapter9/index
-
 
