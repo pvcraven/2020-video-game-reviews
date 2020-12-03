@@ -21,4 +21,6 @@ We are a team of Simpson *students* that have a passion for playing and reviewin
    league_of_legends/index
    league_of_legends2/index
    genshin_impact/index
+   fallout_4/index
+   overwatch/index
 
