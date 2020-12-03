@@ -19,5 +19,6 @@ We are a team of Simpson *students* that have a passion for playing and reviewin
    call_of_duty_ghosts/index
    valhalla/index
    league_of_legends/index
-   chapter9/index
+   league_of_legends2/index
+   genshin_impact/index
 
