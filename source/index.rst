@@ -23,4 +23,7 @@ We are a team of Simpson *students* that have a passion for playing and reviewin
    genshin_impact/index
    dark_souls_3/index
    spec_ops_the_line/index
+   fallout_4/index
+   overwatch/index
+
 
