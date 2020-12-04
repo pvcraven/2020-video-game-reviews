@@ -47,6 +47,7 @@ would be the constant ziplines setup throughout the game. You will notice whenev
 causing them to be downed and allowing you to execute them
 
 .. figure:: whitephos.jpg
+
 White Phosphorous [#f1]_
 
 Spec Ops: The Line relies heavily on your conscience by giving you moral decisions which have no affect on the gameplay. You will be given choices such as saving certain people over others and then
