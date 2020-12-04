@@ -39,11 +39,11 @@ player.
 Gameplay
 --------
 
-Ghost of Tsushima offers a large varity on how the player progresses through the
-narrative of the game. Through out the world the player will discover different areas
+Ghost of Tsushima offers a large varity on how the player progessis through the
+narative of the game. Through out the world the player will discover diffrent areas
 that will allow them to increase Jin's health, resolve, charm slots, earn new gear or 
-charms, or earn resources to upgrade/dye gear already possessed. All this helps create
-and immersive action-adventure game that that can be tailored to the player's play
+charms, or earn resoreces to upgrade/dye gear already possesed. All this helps create
+and emersive action-adventrue game that that can be taliored to the player's play
 style. 
 
 Ghost offers four difficulty modes!
@@ -54,7 +54,7 @@ Ghost offers four difficulty modes!
 #. Lethal 
 
 .. note::
-	**Lethal causes the player to die in just one hit**. I recommend playing on normal or hard then on a second playthrough play on lethal.
+	**Leathal causes the player to die in just one hit**. I recomend playing on normal or hard then on a second playthrough play on lethal.
 
 Combat in Ghost of Tsushima is very relatable to a souls game. This means that the 
 player will have to manage their health and become proficient at blocking, parrying, 
