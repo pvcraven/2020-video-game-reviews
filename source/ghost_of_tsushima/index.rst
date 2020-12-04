@@ -39,11 +39,11 @@ player.
 Gameplay
 --------
 
-Ghost of Tsushima offers a large varity on how the player progessis through the 
-narative of the game. Through out the world the player will discover diffrent areas 
+Ghost of Tsushima offers a large varity on how the player progessis through the
+narative of the game. Through out the world the player will discover diffrent areas
 that will allow them to increase Jin's health, resolve, charm slots, earn new gear or 
-charms, or earn resoreces to upgrade/dye gear already possesed. All this helps create 
-and emersive action-adventrue game that that can be taliored to the player's play 
+charms, or earn resoreces to upgrade/dye gear already possesed. All this helps create
+and emersive action-adventrue game that that can be taliored to the player's play
 style. 
 
 Ghost offers four difficulty modes!
